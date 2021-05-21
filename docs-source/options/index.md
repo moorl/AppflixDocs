@@ -14,27 +14,34 @@ Für diese Dokumentation verwenden wir zur Veranschaulichung Screenshots von den
 
 Im Administratorbereich unter "DeliveryWare ==> Optionen" besteht die Möglichkeit eigene Optionen anzulegen.
 
-- Name: In diesem Eingabefeld muss ein Name hinterlegt werden. Dieser wird ebenfalls im Frontend ausgegeben.
-- Typ: Es stehen mehrere Typen zur Auswahl.
+- **Name:** In diesem Eingabefeld muss ein Name hinterlegt werden. Dieser wird ebenfalls im Frontend ausgegeben.
 
-1. Einfachauswahl in Form eines Dropdown's. Wählen Sie dieses Feld für spätere Preiskalkulationen (Preisfaktor).
+
+- **Typ:** Es stehen mehrere Typen zur Auswahl:
+
+----
+1. **Einfachauswahl:** In Form eines Dropdown's. Wählen Sie dieses Feld für spätere Preiskalkulationen (Preisfaktor).
   
   ![dewa-options-single](img/dewa-options-single.jpg)
 
-2. Radio-Button-Auswahl: Diese Option ist eine Listenauswahl mit absoluten Preisen.
+----
+2. **Radio-Button-Auswahl:** Diese Option ist eine Listenauswahl mit absoluten Preisen.
 
 ![dewa-options-radio](img/dewa-options-radio.jpg)
 
-3. Checkbox Auswahl: Hierbei handelt es sich um eine Mehrfachauswahl.
+----
+3. **Checkbox Auswahl:** Hierbei handelt es sich um eine Mehrfachauswahl.
 
   ![dewa-options-checkbox](img/dewa-options-checkbox.jpg)
 
-4. Textfeld z.B. für Kommentare
+----
+4. **Textfeld:** 
   
   ![dewa-options-textarea](img/dewa-options-textarea.jpg)
 
 ----
 
 
-- Einheit:  (Nur für Einfachauswahl relevant)
-- Referenzeinheit: (Nur für Einfachauswahl relevant)
+
+- **Einheit:**  (Nur für Einfachauswahl relevant)
+- **Referenzeinheit:** (Nur für Einfachauswahl relevant)
