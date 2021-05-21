@@ -12,10 +12,13 @@ Als Beispiel stehen bei einem Salat immer bestimmte Dressings zur Auswahl oder d
   ![dewa-options-single](img/dewa-options-single.jpg)
   
 2. checkbox: Mehrfachauswahl
+
   ![dewa-options-checkbox](img/dewa-options-checkbox.jpg)
+
 3. textarea: Textfeld z.B. für Kommentare
   
   ![dewa-options-textarea](img/dewa-options-textarea.jpg)
+
 4. radio: Normale Einfachauswahl
   
   ![dewa-options-radio](img/dewa-options-radio.jpg)
