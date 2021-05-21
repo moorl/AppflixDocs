@@ -1,23 +1,23 @@
-# Installation DewaShop
+# Installation DeliveryWare
 
 
 Für diese Dokumentation verwenden wir zur Veranschaulichung Screenshots von den mitgelieferten Demo-Daten.
 
 
 
-## Was ist DewaShop?
+## Was ist DeliveryWare?
 
 
 
 ## Anforderungen
-Für die Installation von DewaShop wird eine laufende Instanz von Shopware 6.4 benötigt.
+Für die Installation von DeliveryWare wird eine laufende Instanz von Shopware 6.4 benötigt.
 
 Um Komplikationen und Fehler bei der Einrichtung zu vermeiden empfehlen wir, dass jegliche Plugins von anderen Anbietern deinstalliert werden.
 
 
 ##  Schritt 1: Theme Installieren
 
-Nach Erwerb von DewaShop müssen Sie sich zuerst in den Adminbereich Ihres Shops einloggen.
+Nach Erwerb von DeliveryWare müssen Sie sich zuerst in den Adminbereich Ihres Shops einloggen.
 Navigieren Sie zu "Extensions ==> My extensions".
 
 Unter dem Reiter "Themes" sollte nun DeliveryWare aufgelistet sein.
