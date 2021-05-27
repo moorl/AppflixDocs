@@ -21,6 +21,7 @@ nav:
         - Demo Daten anlegen: 'demo-assistant/index.md'
     - Shop Konfiguration:
         - Shops und Verkaufstellen: 'shops/index.md'
+        - E-Mail Templates: 'mail-templates/index.md'
         - Konfigurator (Optionen): 'options/index.md'
         - Inhaltsstoffe: 'ingredienst/index.md'
         - Badges (Hervorheben): 'badges/index.md'
