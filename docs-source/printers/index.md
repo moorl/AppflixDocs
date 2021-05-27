@@ -39,4 +39,6 @@ Du kannst in den App-Einstellungen auch die Belegerstellung bei jeder
 Bestellung auslösen - das lohnt sich z.B. wenn man Abends Bestellungen für den
 Folgetag empfängt (Bäcker, Fleischer usw)
 
+`/admin#/sw/extension/config/DewaShop`
+
 ![](img/dewa-printer-sw-settings.jpg)
