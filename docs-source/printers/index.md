@@ -5,7 +5,7 @@
 1. Schließe Deinen Drucker am Netzwerk an
 2. Drucke einen Selbsttest indem Du den `POWER ON` und den `FEED` Button gedrückt hälst
 3. Auf dem Ausdruck befindet sich eine IP Adresse für Dein lokales Netzwerk
-5. Log Dich ein und gehe zum Reiter "CloudPRNT"
+5. Log Dich ein und gehe zum Reiter `CloudPRNT`
 
 ![](img/dewa-printer-settings.jpg)
 
