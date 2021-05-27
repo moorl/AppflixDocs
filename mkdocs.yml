@@ -1,5 +1,4 @@
-site_name: moori - Shopware 6 Plugin Dokumentation
-repo_url: https://github.com/moorl/documentation-moorl-sw6
+site_name: DeliveryWare Shopware 6 App Dokumentation
 edit_uri: blob/master/docs-source/
 theme:
     name: 'material'
@@ -14,35 +13,23 @@ extra_javascript:
     - 'extra.js'
 
 nav:
-    - Home: 'index.md'
-    - Häufig gestellte Fragen (FAQ): 'faq.md'
-    - Foundation / Basis Plugin: 'MoorlFoundation/index.md'
-    - Login Facebook, Google usw:
-        - Allgemeines: 'MoorlSignIn/index.md'
-        - Quickstart Facebook: 'MoorlSignIn/facebook.md'
-    - Magazin / Blog:
-        - Allgemeines: 'MoorlMagazine/index.md'
-        - Feed API Guide (EN): 'MoorlMagazine/feed-api.md'
-    - Händler- und Filialensuche:
-        - Allgemeines: 'MoorlMerchantFinder/index.md'
-        - Setup Guide: 'MoorlMerchantFinder/setup.md'
-        - Add-On - Händlerauswahl: 'MoorlMerchantPicker/index.md'
-    - Formular Baukasten:
-        - Allgemeines: 'MoorlFormBuilder/index.md'
-        - Setup Guide: 'MoorlFormBuilder/setup.md'
-        - User Guide: 'MoorlFormBuilder/user.md'
-        - E-Mail Templates: 'MoorlFormBuilder/mail_templates.md'
-        - Newsletter: 'MoorlFormBuilder/newsletter.md'
-        - Events: 'MoorlFormBuilder/events.md'
-        - Interaktive Formulare: 'MoorlFormBuilder/interactive.md'
-        - FAQ: 'MoorlFormBuilder/faq.md'
-        - Add-On - Kundenregistrierung: 'MoorlFormRegistration/index.md'
-        - Add-On - Erweiterter Warenkorb: 'MoorlFormCartExtend/index.md'
-        - Add-On - Custom Products: 'MoorlFormCartLineItem/index.md'
-        - Add-On - Produktanfrage: 'MoorlFormProductRequest/index.md'
-    - Zubehör Finder:
-        - Allgemeines: 'MoorlAccessoryFinder/index.md'
-        - Feed API Guide (EN): 'MoorlAccessoryFinder/index.md'
-    - Shopware Store: 'https://store.shopware.com/moori.html'
-    - Kontakt: 'mailto:info@moorleiche.com'
-    - Impressum: 'https://moorleiche.com/impressum/'
+    - Start: 'index.md'
+    - Häufig gestellte Fragen (FAQ): 'faq/index.md'
+    - Store Präsentation: '_store/index.md'
+    - Schnelleinrichtung:
+        - Installation: 'installation/index.md'
+        - Demo Daten anlegen: 'demo-assistant/index.md'
+    - Shop Konfiguration:
+        - Shops und Verkaufstellen: 'shops/index.md'
+        - Konfigurator (Optionen): 'options/index.md'
+        - Inhaltsstoffe: 'ingredienst/index.md'
+        - Badges (Hervorheben): 'badges/index.md'
+    - Theme Konfiguration: 'theme/index.md'
+    - Bestellverwaltung:
+        - Dashboard: 'dashboard/index.md'
+        - Bon Drucker Einrichtung: 'printer/index.md'
+        - GPS Tracking: 'gps-tracking/index.md'
+
+    - Shopware Store: 'https://store.shopware.com/appflix.html'
+    - Kontakt: 'mailto:info@app-flix.de'
+    - Impressum: 'imprint/index.md'

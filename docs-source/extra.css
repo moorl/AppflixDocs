@@ -1,3 +1,5 @@
-/*h1 + p {
-    text-align: center;
-}*/
+:root {
+    --md-primary-fg-color:        #d95030;
+    --md-primary-fg-color--light: #dd6246;
+    --md-primary-fg-color--dark:  #ca4425;
+}
