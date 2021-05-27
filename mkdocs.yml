@@ -28,7 +28,7 @@ nav:
     - Theme Konfiguration: 'theme/index.md'
     - Bestellverwaltung:
         - Dashboard: 'dashboard/index.md'
-        - Bon Drucker Einrichtung: 'printer/index.md'
+        - Bon Drucker Einrichtung: 'printers/index.md'
         - GPS Tracking: 'gps-tracking/index.md'
 
     - Shopware Store: 'https://store.shopware.com/appflix.html'
