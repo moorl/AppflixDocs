@@ -1,0 +1,1 @@
+Settings > DeliveryWare > Demo Assistant
