@@ -23,7 +23,7 @@ nav:
         - Shops und Verkaufstellen: 'shops/index.md'
         - E-Mail Templates: 'mail-templates/index.md'
         - Konfigurator (Optionen): 'options/index.md'
-        - Inhaltsstoffe: 'ingredienst/index.md'
+        - Inhaltsstoffe: 'ingredients/index.md'
         - Badges (Hervorheben): 'badges/index.md'
     - Theme Konfiguration: 'theme/index.md'
     - Bestellverwaltung:
