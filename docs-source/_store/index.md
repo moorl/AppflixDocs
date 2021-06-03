@@ -11,9 +11,9 @@ DeliveryWare is an all-in-one solution for your online food delivery service. Us
 
 Keine Lust auf veraltete Software Lösungen und ohne jegliche Reichweite? Gar kein Bock mehr auf Orange? Hier gibt es nicht nur eine Alternative - wir sind besser!
 
-Mit DeliveryWare bekommst Du für Dein Shopware 6 System ein Theme, eine App und nützliche Schnittstellen um deinen Kunden ein optimales Einkaufserlebnis zu gewährleisten.
+Mit DeliveryWare bekommst Du für Dein Shopware 6 System ein Theme, eine App und nützliche Schnittstellen um Deinen Kunden ein optimales Einkaufserlebnis zu gewährleisten.
 
-Die All-In-One Lösung beinhaltet eine für Dein Business optimierte Bestellverwaltung (Dashboard). Mit den DeliveryWare Demo Paketen hast du auf Anhieb passende Inhalte und Produkte - abgestimmt auf Dein Angebot.
+Die All-In-One Lösung beinhaltet eine für Dein Business optimierte Bestellverwaltung (Dashboard). Mit den DeliveryWare Demo Paketen hast Du auf Anhieb passende Inhalte und Produkte - abgestimmt auf Dein Angebot.
 
 ## Highlights & Features
 
@@ -27,17 +27,17 @@ Folgende Funktionen sind bereits in unserer App enthalten und werden in kommende
 - Ausschließung von Angeboten aus Bestimmten Stores möglich
 - Lagerbestand in freien Intervallen auffüllbar: Gewisse Lebensmittel gibt es täglich nur in begrenzter Menge - z.B. Hühnereier
 - Produktkonfigurator ohne Varianten - Schnell eingerichtet und auf der gesamten Kategorie Anwendebar - z.B. Pizza in 4 Größen und zusätzliche Zutaten
-- Konfigurieren von "Bagdes": Verwende deinen eigenen SVGs und hebe Produkte hervor - z.B. Peperoni/Scharf, Blatt/Vegan usw - Lasse deine Kunden in deinem Shop nach den Badges filtern
+- Konfigurieren von "Bagdes": Verwende Deinen eigenen SVGs und hebe Produkte hervor - z.B. Peperoni/Scharf, Blatt/Vegan usw - Lasse Deine Kunden in Deinem Shop nach den Badges filtern
 - Konfigurieren von Inhaltsstoffen: Allgemiene Infos für Allergiker
-- Konforme Preis-pro-Brechnung: Zeige deinen Kunden bei der Konfiguration der Gerichte immer einen Referenzpreis an - z.B. Brot: 750g, 6,67€ pro 1Kg
+- Konforme Preis-pro-Brechnung: Zeige Deinen Kunden bei der Konfiguration der Gerichte immer einen Referenzpreis an - z.B. Brot: 750g, 6,67€ pro 1Kg
 - Verbesserte Suche: Wir haben die Shopware Suche Grunderneuert
 - Login/Registrierung: Wurde auf die wesentlich relevanten Infos verringert - Der Login-Flow wurde ebenfalls optimiert
 - Automatische Validierung nach Öffnungszeiten und Umkreis: Deine Kunden können nur in einem bestimmten Umkreis und zu einer bestimmten Uhrzeit bestellen
-- Zubereitungszeit/Lieferzeit: Tragen für eine geschätze Ankunftszeit bei deinen Kunden bei
-- Karte und Countdown bei der Bestellung: Zeige deinen Kunden wie lange die Zubereitung dauert und wie der Status der Bestellung ist
-- Bon-Drucker Anbindung: Drucke deine Bestellungen direkt und einfach (ohne zusätzlich Software) auf einem netzwerkfähigen Bon-Drucker aus. Unsere App liefert eine Schnittstelle zu dem Star mC-Print2 Drucker.
-- GPS Tracking: Zeige deinen Kunden bei Statuswechsel "Lieferung" wo sich der zuständige Lieferant aktuell befindet - erspare deinen hungrigen Kunden somit das schmächtige Warten hinter der Haustür, wenn zufällig jemand durch die Straße fährt
-- Unendlich erweiterbar: Durch Drittanbieter-Apps kannst du deinen Shop nach Belieben optimieren und individualisieren, Deiner Kreativität sind keine Grenzen gesetzt
+- Zubereitungszeit/Lieferzeit: Tragen für eine geschätze Ankunftszeit bei Deinen Kunden bei
+- Karte und Countdown bei der Bestellung: Zeige Deinen Kunden wie lange die Zubereitung dauert und wie der Status der Bestellung ist
+- Bon-Drucker Anbindung: Drucke Deine Bestellungen direkt und einfach (ohne zusätzlich Software) auf einem netzwerkfähigen Bon-Drucker aus. Unsere App liefert eine Schnittstelle zu dem Star mC-Print2 Drucker.
+- GPS Tracking: Zeige Deinen Kunden bei Statuswechsel "Lieferung" wo sich der zuständige Lieferant aktuell befindet - erspare Deinen hungrigen Kunden somit das schmächtige Warten hinter der Haustür, wenn zufällig jemand durch die Straße fährt
+- Unendlich erweiterbar: Durch Drittanbieter-Apps kannst Du Deinen Shop nach Belieben optimieren und individualisieren, Deiner Kreativität sind keine Grenzen gesetzt
 
 ## FAQ
 
@@ -55,7 +55,7 @@ Aufbau und wird in den kommenden Updates in DeliveryWare zur Verfügung stehen.
 
 ### Ich habe Interesse DeliveryWare für mein Franchise zu nutzen, welche Möglichkeiten habe ich?
 
-Mit unserer App kannst du mehrere Standorte in einem Shop Bündeln. Aus technischer Sicht 
+Mit unserer App kannst Du mehrere Standorte in einem Shop Bündeln. Aus technischer Sicht 
 steht Dir also nichts im Wege. Eine Anpassung des Themes und die Anbindung an weitere
 Schnittstellen sind möglich, aber nicht im Preis inklusive. Sprich uns einfach an!
 
@@ -74,7 +74,7 @@ Shopware 6 Freelancern ünterstützt euch bei der Einrichtung und eventuellen R�
 
 Aktuell bieten wir auschließlich für ein Drucker Modell eine Schnittstelle an. Den Drucker
 gibt es zu einem einmaligen Anschaffungspreis von ca. 200€ exkl. MwSt. Hilfe bei der Einrichtung
-erhälst du in unserer Dokumentation oder einem unserer Partner.
+erhälst Du in unserer Dokumentation oder einem unserer Partner.
 
 ## Bilder
 
