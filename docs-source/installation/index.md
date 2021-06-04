@@ -13,19 +13,21 @@ Um Komplikationen und Fehler bei der Einrichtung zu vermeiden empfehlen wir, das
 
 ## Theme installieren
 
-Nach Erwerb von DeliveryWare müssen Sie sich zuerst in den Administratorbereich Ihres Shops einloggen.
-Navigieren Sie zu "Erweiterungen ==> Meine Erweiterungen".
+Nach Erwerb von DeliveryWare musst Du Dich zuerst in den Administratorbereich 
+Deines Shops einloggen.
+Navigiere zu "Erweiterungen ==> Meine Erweiterungen".
 
 Unter dem Reiter "Themes" sollte nun DeliveryWare aufgelistet sein.
 
-Installieren Sie die App durch Klick auf "App installieren" und aktivieren Sie diese anschließend.
+Installiere die App durch Klick auf "App installieren" und aktiviere diese anschließend.
 
 ## Theme zuordnen
 
-Sobald das Theme aktiviert ist, muss dieses deinem Verkaufskanal zugeordnet werden.
+Sobald das Theme aktiviert ist, muss dieses Deinem Verkaufskanal zugeordnet werden.
 
-Klicken Sie dafür in der Navigation auf Ihren Verkaufskanal und wecheln auch hier in den Reiter "Theme."
+Klicke dafür in der Navigation auf Deinen Verkaufskanal und wecheln auch hier in den Reiter "Theme."
 
-Klicken Sie anschließend auf "Theme ändern", wählen Sie das DeliveryWare Theme aus und speichern anschließend.
-Bestätigen Sie die erscheinende Meldung erneut.
+Klicke anschließend auf "Theme ändern", wähle das DeliveryWare Theme aus und 
+speichern anschließend.
+Bestätige die erscheinende Meldung erneut.
 
