@@ -19,6 +19,7 @@ nav:
     - Schnelleinrichtung:
         - Installation: 'installation/index.md'
         - Demo Daten anlegen: 'demo-assistant/index.md'
+        - Migrations Tool: 'migration/index.md'
     - Shop Konfiguration:
         - Shops und Verkaufstellen: 'shops/index.md'
         - E-Mail Templates: 'mail-templates/index.md'
