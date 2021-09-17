@@ -1,10 +1,13 @@
+$('.md-content p > a').each(function () {
+    $(this).attr('target','_blank');
+});
+
 $('.md-content p > img').each(function () {
     let url = this.src;
     let alt = this.alt;
 
     $(this).wrap('<a data-fancybox="gallery" title="' + alt + '" href="' + url + '"></a>');
 });
-
 
 var _paq = window._paq = window._paq || [];
 _paq.push(['trackPageView']);

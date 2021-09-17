@@ -1,37 +1,100 @@
 site_name: DeliveryWare Shopware 6 App Dokumentation
-edit_uri: blob/master/docs-source/
 theme:
     name: 'material'
+    features:
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - navigation.top
+        - navigation.tracking
+    palette:
+        - scheme: default
+          toggle:
+              icon: material/toggle-switch-off-outline
+              name: Switch to dark mode
+        - scheme: slate
+          accent: light green
+          primary: deep orange
+          toggle:
+              icon: material/toggle-switch
+              name: Switch to light mode
+plugins:
+    - i18n:
+          default_language: de
+          languages:
+              de: Deutsch
+              en: English
+              nl: Nederlands
+              zh: 中国
+          nav_translations:
+              de:
+                  Documentation: App Dokumentation
+                  Imprint: Impressum
+              en:
+                  Documentation: App Documentation
+                  Imprint: Imprint
+              nl:
+                  Documentation: App Documentatie
+                  Imprint: Afdruk
+              zh:
+                  Documentation: 应用程序文档
+                  Imprint: 版本说明
+    - search
 docs_dir: docs-source
 site_dir: docs-html
+site_url: 'https://docs.app-flix.de'
+extra:
+    consent:
+        title: Cookie consent
+        description: >
+            We use cookies to recognize your repeated visits and preferences, as well
+            as to measure the effectiveness of our documentation and whether users
+            find what they're searching for. With your consent, you're helping us to
+            make our documentation better.
+        cookies:
+            matomo: Matomo Tracker
+            custom: Disqus Board
+    disqus: 'moori'
 extra_css:
-    - 'jquery.fancybox.min.css'
-    - 'extra.css'
+    - jquery.fancybox.min.css
+    - extra.css
 extra_javascript:
-    - 'jquery-3.5.0.slim.min.js'
-    - 'jquery.fancybox.min.js'
-    - 'extra.js'
+    - jquery-3.5.0.slim.min.js
+    - jquery.fancybox.min.js
+    - extra.js
 
 nav:
     - Start: 'index.md'
-    - Häufig gestellte Fragen (FAQ): 'faq/index.md'
-    - Store Präsentation: '_store/index.md'
-    - Schnelleinrichtung:
-        - Installation: 'installation/index.md'
-        - Demo Daten anlegen: 'demo-assistant/index.md'
-        - Migrations Tool: 'migration/index.md'
-    - Shop Konfiguration:
-        - Shops und Verkaufstellen: 'shops/index.md'
-        - E-Mail Templates: 'mail-templates/index.md'
-        - Konfigurator (Optionen): 'options/index.md'
-        - Inhaltsstoffe: 'ingredients/index.md'
-        - Badges (Hervorheben): 'badges/index.md'
-    - Theme Konfiguration: 'theme/index.md'
-    - Bestellverwaltung:
-        - Dashboard: 'dashboard/index.md'
-        - Bon Drucker Einrichtung: 'printers/index.md'
-        - GPS Tracking: 'gps-tracking/index.md'
-
+    - DeliveryWare:
+        - Häufig gestellte Fragen (FAQ): 'deliveryware/faq/index.md'
+        - Store Präsentation: 'deliveryware/index.md'
+        - Schnelleinrichtung:
+            - Installation: 'deliveryware/installation/index.md'
+            - Demo Daten anlegen: 'deliveryware/demo-assistant/index.md'
+            - Migrations Tool: 'deliveryware/migration/index.md'
+        - Shop Konfiguration:
+            - Shops und Verkaufstellen: 'deliveryware/shops/index.md'
+            - E-Mail Templates: 'deliveryware/mail-templates/index.md'
+            - Konfigurator (Optionen): 'deliveryware/options/index.md'
+            - Inhaltsstoffe: 'deliveryware/ingredients/index.md'
+            - Badges (Hervorheben): 'deliveryware/badges/index.md'
+        - Theme Konfiguration: 'deliveryware/theme/index.md'
+        - Bestellverwaltung:
+            - Dashboard: 'deliveryware/dashboard/index.md'
+            - Bon Drucker Einrichtung: 'deliveryware/printers/index.md'
+            - GPS Tracking: 'deliveryware/gps-tracking/index.md'
+    - Studygood:
+          - Häufig gestellte Fragen (FAQ): 'studygood/faq/index.md'
+          - Schnelleinrichtung:
+                - Installation: 'studygood/installation/index.md'
+                - Demo Daten anlegen: 'studygood/demo-assistant/index.md'
+          - Kurs Konfiguration:
+                - Kursverwaltung: 'studygood/course/index.md'
+                - Kapitel: 'studygood/chapter/index.md'
+                - Lektionen: 'studygood/lesson/index.md'
+                - Produkt Konfiguration: 'studygood/product/index.md'
+                - Prüfungen: 'studygood/test/index.md'
+                - Tutor: 'studygood/tutor/index.md'
+                - Board: 'studygood/board/index.md'
     - Shopware Store: 'https://store.shopware.com/appflix-ug.html'
     - Kontakt: 'mailto:info@app-flix.de'
     - Impressum: 'imprint/index.md'
