@@ -31,9 +31,15 @@ plugins:
               de:
                   Documentation: App Dokumentation
                   Imprint: Impressum
+                  OrderManagement: Bestellverwaltung
+                  QuickSetup: Schnelleinrichtung
+                  StoreConfiguration: Shop Konfiguration
               en:
                   Documentation: App Documentation
                   Imprint: Imprint
+                  OrderManagement: Order Management
+                  QuickSetup: Quick Setup
+                  StoreConfiguration: Store Configuration
               nl:
                   Documentation: App Documentatie
                   Imprint: Afdruk
@@ -67,23 +73,23 @@ extra_javascript:
 nav:
     - Start: 'index.md'
     - DeliveryWare:
-        - Häufig gestellte Fragen (FAQ): 'deliveryware/faq/index.md'
-        - Store Präsentation: 'deliveryware/index.md'
-        - Schnelleinrichtung:
-            - Installation: 'deliveryware/installation/index.md'
-            - Demo Daten anlegen: 'deliveryware/demo-assistant/index.md'
-            - Migrations Tool: 'deliveryware/migration/index.md'
-        - Shop Konfiguration:
-            - Shops und Verkaufstellen: 'deliveryware/shops/index.md'
-            - E-Mail Templates: 'deliveryware/mail-templates/index.md'
-            - Konfigurator (Optionen): 'deliveryware/options/index.md'
-            - Inhaltsstoffe: 'deliveryware/ingredients/index.md'
-            - Badges (Hervorheben): 'deliveryware/badges/index.md'
-        - Theme Konfiguration: 'deliveryware/theme/index.md'
-        - Bestellverwaltung:
-            - Dashboard: 'deliveryware/dashboard/index.md'
-            - Bon Drucker Einrichtung: 'deliveryware/printers/index.md'
-            - GPS Tracking: 'deliveryware/gps-tracking/index.md'
+        - 'deliveryware/index.md'
+        - 'deliveryware/faq/index.md'
+        - QuickSetup:
+            - 'deliveryware/installation/index.md'
+            - 'deliveryware/demo-assistant/index.md'
+            - 'deliveryware/migration/index.md'
+        - StoreConfiguration:
+            - 'deliveryware/shops/index.md'
+            - 'deliveryware/mail-templates/index.md'
+            - 'deliveryware/options/index.md'
+            - 'deliveryware/ingredients/index.md'
+            - 'deliveryware/badges/index.md'
+        - 'deliveryware/theme/index.md'
+        - OrderManagement:
+            - 'deliveryware/dashboard/index.md'
+            - 'deliveryware/printers/index.md'
+            - 'deliveryware/gps-tracking/index.md'
     - Studygood:
           - Häufig gestellte Fragen (FAQ): 'studygood/faq/index.md'
           - Schnelleinrichtung:

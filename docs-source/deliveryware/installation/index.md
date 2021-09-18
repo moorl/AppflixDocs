@@ -1,4 +1,4 @@
-# Installation DeliveryWare
+# Installation
 
 
 Für diese Dokumentation verwenden wir zur Veranschaulichung Screenshots von den mitgelieferten Demo-Daten.
@@ -13,7 +13,7 @@ Um Komplikationen und Fehler bei der Einrichtung zu vermeiden empfehlen wir, das
 
 ## Theme installieren
 
-Nach Erwerb von DeliveryWare musst Du Dich zuerst in den Administratorbereich 
+Nach Erwerb von DeliveryWare musst Du Dich zuerst in den Administratorbereich
 Deines Shops einloggen.
 Navigiere zu "Erweiterungen ==> Meine Erweiterungen".
 
@@ -27,7 +27,7 @@ Sobald das Theme aktiviert ist, muss dieses Deinem Verkaufskanal zugeordnet werd
 
 Klicke dafür in der Navigation auf Deinen Verkaufskanal und wecheln auch hier in den Reiter "Theme."
 
-Klicke anschließend auf "Theme ändern", wähle das DeliveryWare Theme aus und 
+Klicke anschließend auf "Theme ändern", wähle das DeliveryWare Theme aus und
 speichern anschließend.
 Bestätige die erscheinende Meldung erneut.
 

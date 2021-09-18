@@ -1,9 +1,9 @@
 # E-Mail Templates
 
-Damit auch die passende Konfiguration der Bestellung in den E-Mails dargestellt wird,
-ist eine manuelle Anpassung notwendig.
+So that the appropriate configuration of the order is also displayed in the e-mails,
+a manual adjustment is necessary.
 
-### Kopiere einfach diesen Auszug in Dein E-Mail Template
+### Just copy this excerpt into your email template
 
 ```html
 {% if nestedItem.payload.dewa is defined and nestedItem.payload.dewa|length %}

@@ -1,4 +1,4 @@
-#  Shop anlegen
+#  Shops und Verkaufstellen
 
 Im Adminstratorbereich ist in der Navigation nun der Punkt "DeliveryWare" zu finden. Navigieren Sie zu dem Unterpunkt "Shops".
 

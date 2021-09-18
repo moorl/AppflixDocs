@@ -1,82 +1,96 @@
-![](img/dewa-icon.png)
+# Start
 
-## Teaser Text
-### DE
-DeliveryWare ist eine All-In-One Lösung für Deinen Online-Lieferdienst. Nützliche Funktionen unterstützen Dich für den optimalen Workflow bei der Abwicklung Deiner Bestellungen.
+**Hinweis:** DeliveryWare ist aktuell zur Markteinführung 100% kostenlos für dich verfügbar! Es geht darum, sehr viel Feedback einzusammeln. Du erhältst also auch 100% kostenlosen Support!
 
-### EN
-DeliveryWare is an all-in-one solution for your online food delivery service. Useful functions support you for the optimal workflow when processing your orders.
+DeliveryWare ist eine All-In-One Lösung für Deinen Online-Lieferdienst. Egal welche Form des Gastronomiebetriebs, DeliveryWare bietet Dir mit nur wenig Einrichtungsaufwand, direkt in den Lieferdienst zu starten! Umfangreiche Funktionen unterstützen Dich für den optimalen Workflow bei der Abwicklung Deiner Bestellungen.
 
-## Beschreibung
+Öffne die offizielle Produktbeschreibung von DeliveryWare, um mehr Details zu erfahren.
 
-Keine Lust auf veraltete Software Lösungen und ohne jegliche Reichweite? Gar kein Bock mehr auf Orange? Hier gibt es nicht nur eine Alternative - wir sind besser!
 
-Mit DeliveryWare bekommst Du für Dein Shopware 6 System ein Theme, eine App und nützliche Schnittstellen um Deinen Kunden ein optimales Einkaufserlebnis zu gewährleisten.
+## Schnittstellenfeatures im Überblick
 
-Die All-In-One Lösung beinhaltet eine für Dein Business optimierte Bestellverwaltung (Dashboard). Mit den DeliveryWare Demo Paketen hast Du auf Anhieb passende Inhalte und Produkte - abgestimmt auf Dein Angebot.
+###Bondrucker API
+➤ Einfache Konfiguration des Druckers im Netzwerk
 
-## Highlights & Features
+➤ Weitere Bondrucker können problemlos integriert werden
 
-Folgende Funktionen sind bereits in unserer App enthalten und werden in kommenden Updates verbessert:
+➤ Dieser Service ist zu 100% kostenlos für Kunden von DeliveryWare
 
-- Vollständig Kompatibel mit der aktuellsten Shopware 6 Version
-- Optimierte Frontend-Darstellung der "Speisekarte" - Deine Kunden können ihr Lieblingsessen einfach und schnell Konfigurieren und in den Warenkorb legen
-- Multi-Store-Funktion: Du kannst mehrere Standorte verwalten, jeder Standort für sich hat einen eigenen Auslieferungs-Radius, eigene Öffnungszeiten und eigene Angebote
-- Store-Auswahl: Deine Kunden können sich den Store bei ihrer Bestellung aussuchen
-- Wunschlieferzeit/Wunschabholzeit: Können von Dir frei und individuell Konfiguriert werden
-- Ausschließung von Angeboten aus Bestimmten Stores möglich
-- Lagerbestand in freien Intervallen auffüllbar: Gewisse Lebensmittel gibt es täglich nur in begrenzter Menge - z.B. Hühnereier
-- Produktkonfigurator ohne Varianten - Schnell eingerichtet und auf der gesamten Kategorie Anwendebar - z.B. Pizza in 4 Größen und zusätzliche Zutaten
-- Konfigurieren von "Bagdes": Verwende Deinen eigenen SVGs und hebe Produkte hervor - z.B. Peperoni/Scharf, Blatt/Vegan usw - Lasse Deine Kunden in Deinem Shop nach den Badges filtern
-- Konfigurieren von Inhaltsstoffen: Allgemiene Infos für Allergiker
-- Konforme Preis-pro-Brechnung: Zeige Deinen Kunden bei der Konfiguration der Gerichte immer einen Referenzpreis an - z.B. Brot: 750g, 6,67€ pro 1Kg
-- Verbesserte Suche: Wir haben die Shopware Suche Grunderneuert
-- Login/Registrierung: Wurde auf die wesentlich relevanten Infos verringert - Der Login-Flow wurde ebenfalls optimiert
-- Automatische Validierung nach Öffnungszeiten und Umkreis: Deine Kunden können nur in einem bestimmten Umkreis und zu einer bestimmten Uhrzeit bestellen
-- Zubereitungszeit/Lieferzeit: Tragen für eine geschätze Ankunftszeit bei Deinen Kunden bei
-- Karte und Countdown bei der Bestellung: Zeige Deinen Kunden wie lange die Zubereitung dauert und wie der Status der Bestellung ist
-- Bon-Drucker Anbindung: Drucke Deine Bestellungen direkt und einfach (ohne zusätzlich Software) auf einem netzwerkfähigen Bon-Drucker aus. Unsere App liefert eine Schnittstelle zu dem Star mC-Print2 Drucker.
-- GPS Tracking: Zeige Deinen Kunden bei Statuswechsel "Lieferung" wo sich der zuständige Lieferant aktuell befindet - erspare Deinen hungrigen Kunden somit das schmächtige Warten hinter der Haustür, wenn zufällig jemand durch die Straße fährt
-- Unendlich erweiterbar: Durch Drittanbieter-Apps kannst Du Deinen Shop nach Belieben optimieren und individualisieren, Deiner Kreativität sind keine Grenzen gesetzt
 
-## FAQ
 
-### Ist DeliveryWare kostenlos?
 
-DeliveryWare ist bei der Einführung im Shopware Community Store kostenlos.
-Anschließend hast Du die Möglichkeit dich für einen einmaligen Kauf oder einer
-Monatlichen Miete zu entscheiden.
+###Live GPS-Tracking App
+Eine wichtige Information für Dich und Deine Kunden ist der Standort der aktuellen Bestellung. Wir haben eine GPS-Tracking App für Deine Auslieferer erstellt, um den Live-Standort der Bestellung zu tracken.
 
-### Was ist die Restaurant Suchmaschine?
+Die App kannst Du als Shopbetreiber ganz einfach in deinem Shop-Dashboard herunterladen und für deine Auslieferer bereitstellen.
 
-Die Restaurant Suchmaschine ist eine kostenlose Dienstleistung, die Du im Rahmen Deiner
-App-Subscription kostenlos nutzen kannst. Derzeit befindet sich die Suchmaschine noch im
-Aufbau und wird in den kommenden Updates in DeliveryWare zur Verfügung stehen.
+➤ Punktgenaues Livetracking der Bestellungen
 
-### Ich habe Interesse DeliveryWare für mein Franchise zu nutzen, welche Möglichkeiten habe ich?
+➤ Deine Kunden wissen genau, wann ihre Lieferungen eintriffen
 
-Mit unserer App kannst Du mehrere Standorte in einem Shop Bündeln. Aus technischer Sicht 
-steht Dir also nichts im Wege. Eine Anpassung des Themes und die Anbindung an weitere
-Schnittstellen sind möglich, aber nicht im Preis inklusive. Sprich uns einfach an!
+➤ Du als Shopbetreiber hast die permanente Kontrolle
 
-### DeliveryWare ist mit einem Shopware 6 Plugin nicht kompatibel - was kann ich tun?
+➤ Kinderleichte Verknüpfung der App mit deinem Shop per Shop-Url
 
-Wir stehen mit den App-Entwicklern in Kontakt und versuchen immer eine gemeinsame Lösung
-zu finden. Erstelle uns einfach ein Support-Ticket in Deinem Shopware Account und wir
-kümmern uns darum!
+➤ Die App ist zu 100% kostenlos für Kunden von DeliveryWare
 
-### Erstellt ihr auch Shops mit/für DeliveryWare?
 
-Shopeinrichtungen bieten wir zu einem Festpreis an. Unser Partner-Netzwerk aus versierten
-Shopware 6 Freelancern ünterstützt euch bei der Einrichtung und eventuellen Rückfragen.
 
-### Wie funktioniert das mit dem Bon-Drucker?
 
-Aktuell bieten wir auschließlich für ein Drucker Modell eine Schnittstelle an. Den Drucker
-gibt es zu einem einmaligen Anschaffungspreis von ca. 200€ exkl. MwSt. Hilfe bei der Einrichtung
-erhälst Du in unserer Dokumentation oder einem unserer Partner.
+###Restaurant - Suchportal (folgt)
+Das Suchportal ist eine eigenständige Suchmaschine für alle Shops, die DeliveryWare nutzen. Als Shopbetreiber profitierst Du durch mehr Reichweite, da das Portal alle Shops listet, die mit dem Suchradius des Kunden übereinstimmen.
 
-## Bilder
+Die Aufnahme in das Restaurant - Suchportal ist optional. Du musst Deinen Shop also nicht listen lassen, wenn du nicht möchtest. Aber wer hat schon etwas gegen mehr Reichweite?
+
+➤ Die Informationen für das Händlerportal werden automatisch erkannt
+
+➤ Du profitierst passiv von unseren Marketingkampagnen
+
+➤ Das Händlerportal wird permanent verbessert und Du profitierst
+
+➤ Du hast keinen Aufwand und profitierst vollautomatisch
+
+➤ 100% kostenlos für Kunden von DeliveryWare
+
+##Interessant für Freelancer und Agenturen
+
+**Für das "Restaurant um die Ecke"**
+
+Erstelle einen kompletten Lieferservice für Dein Lieblingsrestaurant. Sie freuen sich!
+
+**Umsetzung von Franchising geplant?**
+
+Mit DeliveryWare ist es möglich, mehrere Shops und Standorte zu verwalten. Sprich mit uns und wir helfen Dir.
+
+**Darf es etwas mehr sein?**
+
+DeliveryWare basiert auf Shopware 6 und ist somit, wie du sicherlich weißt, grenzenlos erweiterbar.
+
+**Sprich mit uns ganz offen**
+
+Wir freuen uns über Kooperationen! Nutze DeliveryWare und wir revanchieren uns.
+
+**Provisions- und Vergütungsmodelle**
+
+Du möchtest gleich mehrere Shops mit DeliveryWare umsetzen? Dann profitierst du selbstverständlich mit.
+
+**Arbeite effektiv mit uns zusammen**
+
+Wir möchten DeliveryWare in den Gastronomiebetrieb integrieren und freuen uns über viele Kooperationen an vielen Standorten.
+
+
+
+## Video & Bilder
+<div>
+    <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/PXDDza2qoAw" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
+
 
 ![](img/dewa-thumbnail.jpg)
 ![](img/dewa-bondurcker.jpg)
