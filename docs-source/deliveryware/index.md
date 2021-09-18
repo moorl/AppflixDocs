@@ -1,6 +1,14 @@
 # Start
 
-**Hinweis:** DeliveryWare ist aktuell zur Markteinführung 100% kostenlos für dich verfügbar! Es geht darum, sehr viel Feedback einzusammeln. Du erhältst also auch 100% kostenlosen Support!
+<div>
+    <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/PXDDza2qoAw" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
 
 DeliveryWare ist eine All-In-One Lösung für Deinen Online-Lieferdienst. Egal welche Form des Gastronomiebetriebs, DeliveryWare bietet Dir mit nur wenig Einrichtungsaufwand, direkt in den Lieferdienst zu starten! Umfangreiche Funktionen unterstützen Dich für den optimalen Workflow bei der Abwicklung Deiner Bestellungen.
 
@@ -24,9 +32,6 @@ Schaue Dir  unsere  [LIVE-Demo](https://dewashop.de/) an.
 
 ➤ Dieser Service ist zu 100% kostenlos für Kunden von DeliveryWare
 
-
-
-
 ###Live GPS-Tracking App
 Eine wichtige Information für Dich und Deine Kunden ist der Standort der aktuellen Bestellung. Wir haben eine GPS-Tracking App für Deine Auslieferer erstellt, um den Live-Standort der Bestellung zu tracken.
 
@@ -41,9 +46,6 @@ Die App kannst Du als Shopbetreiber ganz einfach in deinem Shop-Dashboard herunt
 ➤ Kinderleichte Verknüpfung der App mit deinem Shop per Shop-Url
 
 ➤ Die App ist zu 100% kostenlos für Kunden von DeliveryWare
-
-
-
 
 ###Restaurant - Suchportal (folgt)
 Das Suchportal ist eine eigenständige Suchmaschine für alle Shops, die DeliveryWare nutzen. Als Shopbetreiber profitierst Du durch mehr Reichweite, da das Portal alle Shops listet, die mit dem Suchradius des Kunden übereinstimmen.
@@ -86,19 +88,7 @@ Du möchtest gleich mehrere Shops mit DeliveryWare umsetzen? Dann profitierst du
 
 Wir möchten DeliveryWare in den Gastronomiebetrieb integrieren und freuen uns über viele Kooperationen an vielen Standorten.
 
-
-
 ## Video & Bilder
-<div>
-    <iframe 
-        width="560" 
-        height="315" 
-        src="https://www.youtube.com/embed/PXDDza2qoAw" 
-        title="YouTube video player" frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
-</div>
-
 
 ![](img/dewa-thumbnail.jpg)
 ![](img/dewa-bondurcker.jpg)

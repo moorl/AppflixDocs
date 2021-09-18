@@ -1,6 +1,7 @@
 site_name: Appflix Shopware 6 App Dokumentation
 theme:
     name: 'material'
+    logo: 'logo.svg'
     features:
         - navigation.tabs
         - navigation.tabs.sticky
@@ -8,8 +9,6 @@ theme:
         - navigation.tracking
     palette:
         - scheme: default
-          accent: light green
-          primary: deep orange
           toggle:
               icon: material/toggle-switch-off-outline
               name: Switch to dark mode

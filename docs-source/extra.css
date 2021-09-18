@@ -6,6 +6,11 @@
     max-width: 100%;
 }
 
+.md-header__button.md-logo {
+    border-radius: 50%;
+    background-color: #124265;
+}
+
 @media screen and (min-width: 76.25em) {
     .md-sidebar--primary {
         width: auto;
