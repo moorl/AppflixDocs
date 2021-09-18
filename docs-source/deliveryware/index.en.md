@@ -4,9 +4,16 @@
 
 DeliveryWare is an all-in-one solution for your online delivery service. No matter what form of catering business, DeliveryWare offers you to start directly into the delivery service with only little setup effort! Extensive features support you for the optimal workflow in processing your orders.
 
-Open the official product description of DeliveryWare to learn more details.
+Open the [official product description](https://store.shopware.com/appfl57695012045f/deliveryware-all-in-one-software-fuer-lieferdienste.html) of DeliveryWare to learn more details.
 
+##Live Demo
 
+You want to see DeliveryWare in action? No problem!
+Check out our [LIVE Demo](https://dewashop.de/).
+
+**Backend credentials:**
+- **User:** ``` demo ```
+- **Password:** ``` shopware ````
 
 ## Interface features at a glance
 

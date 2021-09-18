@@ -78,7 +78,6 @@ nav:
         - QuickSetup:
             - 'deliveryware/installation/index.md'
             - 'deliveryware/demo-assistant/index.md'
-            - 'deliveryware/migration/index.md'
         - StoreConfiguration:
             - 'deliveryware/shops/index.md'
             - 'deliveryware/mail-templates/index.md'
@@ -100,7 +99,6 @@ nav:
                 - Kapitel: 'studygood/chapter/index.md'
                 - Lektionen: 'studygood/lesson/index.md'
                 - Produkt Konfiguration: 'studygood/product/index.md'
-                - Prüfungen: 'studygood/test/index.md'
                 - Tutor: 'studygood/tutor/index.md'
                 - Board: 'studygood/board/index.md'
 
