@@ -1,4 +1,4 @@
 ---
-template: overrides/home.html
-title: Material for MkDocs
+template: home.html
+title: Willkommen zu der Appflix Shopware 6 Dokumentation
 ---

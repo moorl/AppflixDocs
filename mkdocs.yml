@@ -1,7 +1,7 @@
-site_name: Appflix Shopware 6 App Dokumentation
+site_name: Appflix
 theme:
     name: 'material'
-    custom_dir: overrides
+    custom_dir: docs-source/overrides
     logo: 'logo.svg'
     features:
         - navigation.tabs
@@ -14,8 +14,8 @@ theme:
               icon: material/toggle-switch-off-outline
               name: Switch to dark mode
         - scheme: slate
-          accent: light green
-          primary: deep orange
+          accent: yellow
+          primary: teal
           toggle:
               icon: material/toggle-switch
               name: Switch to light mode
@@ -25,8 +25,6 @@ plugins:
           languages:
               de: Deutsch
               en: English
-              nl: Nederlands
-              zh: 中国
           nav_translations:
               de:
                   Documentation: App Dokumentation
@@ -62,16 +60,14 @@ extra:
             matomo: Matomo Tracker
             custom: Disqus Board
     disqus: 'moori'
-extra_css:
-    - jquery.fancybox.min.css
-    - extra.css
-extra_javascript:
-    - jquery-3.5.0.slim.min.js
-    - jquery.fancybox.min.js
-    - extra.js
-
 nav:
-    - 'index.md'
+    - Home: index.md
+    - Foundation:
+          - 'foundation/index.md'
+          - 'foundation/addons/index.md'
+          - 'foundation/demo-installer/index.md'
+          - 'foundation/animation/index.md'
+          - 'foundation/cms-animation/index.md'
     - DeliveryWare:
         - 'deliveryware/index.md'
         - 'deliveryware/faq/index.md'
@@ -101,13 +97,6 @@ nav:
                 - Produkt Konfiguration: 'studygood/product/index.md'
                 - Tutor: 'studygood/tutor/index.md'
                 - Board: 'studygood/board/index.md'
-
-    - Foundation:
-        - 'foundation/index.md'
-        - 'foundation/addons/index.md'
-        - 'foundation/demo-installer/index.md'
-        - 'foundation/animation/index.md'
-        - 'foundation/cms-animation/index.md'
     - Shopware Store: 'https://store.shopware.com/appflix-ug.html'
     - Kontakt: 'mailto:info@app-flix.de'
     - Impressum: 'imprint/index.md'
