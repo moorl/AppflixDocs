@@ -1,3 +1,4 @@
-# DeliveryWare App Dokumentation
-
-Willkommen!
+---
+template: overrides/home.html
+title: Material for MkDocs
+---
