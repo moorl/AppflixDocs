@@ -103,6 +103,13 @@ nav:
                 - Prüfungen: 'studygood/test/index.md'
                 - Tutor: 'studygood/tutor/index.md'
                 - Board: 'studygood/board/index.md'
+
+    - Foundation:
+        - 'foundation/index.md'
+        - 'foundation/addons/index.md'
+        - 'foundation/demo-installer/index.md'
+        - 'foundation/animation/index.md'
+        - 'foundation/cms-animation/index.md'
     - Shopware Store: 'https://store.shopware.com/appflix-ug.html'
     - Kontakt: 'mailto:info@app-flix.de'
     - Impressum: 'imprint/index.md'
