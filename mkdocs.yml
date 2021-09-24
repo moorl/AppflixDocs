@@ -14,8 +14,8 @@ theme:
               icon: material/toggle-switch-off-outline
               name: Switch to dark mode
         - scheme: slate
-          accent: yellow
-          primary: black
+          accent: lime
+          primary: red
           toggle:
               icon: material/toggle-switch
               name: Switch to light mode
@@ -80,13 +80,15 @@ nav:
             - 'deliveryware/options/index.md'
             - 'deliveryware/ingredients/index.md'
             - 'deliveryware/badges/index.md'
-        - 'deliveryware/theme/index.md'
         - OrderManagement:
             - 'deliveryware/dashboard/index.md'
             - 'deliveryware/printers/index.md'
             - 'deliveryware/gps-tracking/index.md'
+        - 'deliveryware/theme/index.md'
+        - 'deliveryware/changelog/index.md'
     - Studygood:
-          - Häufig gestellte Fragen (FAQ): 'studygood/faq/index.md'
+          - 'studygood/index.md'
+          - 'studygood/faq/index.md'
           - Schnelleinrichtung:
                 - Installation: 'studygood/installation/index.md'
                 - Demo Daten anlegen: 'studygood/demo-assistant/index.md'

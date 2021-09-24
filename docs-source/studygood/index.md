@@ -1,4 +1,6 @@
-![](img/dewa-icon.png)
+# Start
+
+![](_store/img/dewa-icon.png)
 
 ## Teaser Text
 ### DE
@@ -78,9 +80,3 @@ erhälst Du in unserer Dokumentation oder einem unserer Partner.
 
 ## Bilder
 
-![](img/dewa-thumbnail.jpg)
-![](img/dewa-bondurcker.jpg)
-![](img/dewa-franchise.jpg)
-![](img/dewa-gpstracking.jpg)
-![](img/dewa-livetracking.jpg)
-![](img/dewa-produktkonfigurator.jpg)

@@ -1,4 +1,4 @@
-## FAQ
+# FAQ
 
 ### Is Studygood free of charge?
 
