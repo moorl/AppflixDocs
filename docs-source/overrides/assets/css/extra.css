@@ -23,7 +23,7 @@
 }
 */
 
-a[href*="//"]:not([href*="docs.moori.net"]):after {
+a[href*="//"]:not([href*="docs.app-flix.de"]):after {
     display: inline-block;
     width: 12px;
     height: 12px;
