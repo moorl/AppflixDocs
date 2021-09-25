@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 1.2.2
+
+- Korrekte Bestell- und Wunschlieferzeiten auf dem Bon-Ausdruck
+- Kommentar zur Bestellung auf dem Bon-Ausdruck
+
 ## Version 1.2.1
 
 __ACHTUNG__
