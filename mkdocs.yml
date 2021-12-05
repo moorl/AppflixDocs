@@ -58,8 +58,6 @@ extra:
             make our documentation better.
         cookies:
             matomo: Matomo Tracker
-            custom: Disqus Board
-    disqus: 'moori'
 nav:
     - Home: index.md
     - Foundation:
@@ -99,6 +97,12 @@ nav:
                 - Produkt Konfiguration: 'studygood/product/index.md'
                 - Tutor: 'studygood/tutor/index.md'
                 - Board: 'studygood/board/index.md'
+    - Kleinanzeigen:
+        - 'customer-market/index.md'
+        - 'customer-market/faq/index.md'
+        - QuickSetup:
+            - 'customer-market/installation/index.md'
+            - 'customer-market/demo-assistant/index.md'
     - Shopware Store: 'https://store.shopware.com/appflix-ug.html'
     - Kontakt: 'mailto:info@app-flix.de'
     - Impressum: 'imprint/index.md'
