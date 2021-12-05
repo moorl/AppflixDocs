@@ -25,5 +25,3 @@ Klicke dafür in der Navigation auf Deinen Verkaufskanal und wecheln auch hier i
 
 Klicke anschließend auf "Theme ändern", wähle das Appflix Kleinanzeigen Theme aus und
 speichern anschließend. Bestätige die erscheinende Meldung erneut.
-
-## Bilder

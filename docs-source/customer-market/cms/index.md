@@ -3,9 +3,8 @@
 ## Einleitung
 
 ![](img/cms-01.jpg)
-![](img/cms-02.jpg)
 
-Mit dieser Erweiterung erhälst du neben den nützlichrn Foundation Elementen
+Mit dieser Erweiterung erhälst du neben den nützlichen Foundation Elementen
 weitere exklusive CMS Elemente für Appflix Kleinanzeigen.
 
 ## Hero Banner mit Suchfunktion
