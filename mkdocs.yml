@@ -103,6 +103,9 @@ nav:
         - QuickSetup:
             - 'customer-market/installation/index.md'
             - 'customer-market/demo-assistant/index.md'
+        - 'customer-market/ad-type/index.md'
+        - 'customer-market/ad/index.md'
+        - 'customer-market/cms/index.md'
     - Shopware Store: 'https://store.shopware.com/appflix-ug.html'
     - Kontakt: 'mailto:info@app-flix.de'
     - Impressum: 'imprint/index.md'
